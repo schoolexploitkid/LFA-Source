@@ -3,4 +3,4 @@
 
 The source code of the extension Lightspeed Filter Agent!
 
-Hopefully this can help with developing exploits and finding vulnerabilities :)
+I think you can find what gets filtered via filter.wasm but it looks encrypted or smth :[
